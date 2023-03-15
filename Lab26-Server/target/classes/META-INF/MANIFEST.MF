@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: 91990
+Build-Jdk: 16.0.2
+Implementation-Title: MyLab26-Server
+Implementation-Version: 1.0
+Implementation-Vendor-Id: com.coursecube.springboot
+Implementation-URL: http://www.coursecube.com
+Created-By: Maven Integration for Eclipse
+

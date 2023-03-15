@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: 91990
+Build-Jdk: 16.0.2
+Implementation-Title: MyLab22
+Implementation-Version: 1.0
+Implementation-Vendor-Id: com.coursecube.springboot
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+

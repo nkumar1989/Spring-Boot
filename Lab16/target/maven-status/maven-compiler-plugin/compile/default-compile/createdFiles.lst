@@ -1,0 +1,5 @@
+com\coursecube\springboot\Book.class
+com\coursecube\springboot\StartMyBootApp.class
+com\coursecube\springboot\BooksController.class
+com\coursecube\springboot\IndexController.class
+com\coursecube\springboot\JLCWebConfig.class

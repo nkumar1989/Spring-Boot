@@ -1,0 +1,9 @@
+com\coursecube\spring\config\JLCWebConfig.class
+com\coursecube\spring\config\StartMyBootApp.class
+com\coursecube\spring\serviceimpl\BookServiceImpl.class
+com\coursecube\spring\controller\IndexController.class
+com\coursecube\spring\controller\BookController.class
+com\coursecube\spring\dao\BookDAO.class
+com\coursecube\spring\daoimpl\BookDAOImpl.class
+com\coursecube\spring\entity\Book.class
+com\coursecube\spring\service\BookService.class
